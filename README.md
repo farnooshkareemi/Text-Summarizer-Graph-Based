@@ -1,4 +1,4 @@
-# TextRank Summarizer (From Scratch)
+# TextRank Summarizer 
 
 This repository contains a **from-scratch implementation of the TextRank algorithm**
 for **extractive text summarization**, developed as part of the  
