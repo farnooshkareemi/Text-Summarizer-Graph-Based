@@ -8,7 +8,7 @@ The project implements the complete summarization pipeline **without using any e
 
 ---
 
-## 📄 Project Overview
+## Project Overview
 
 TextRank is a graph-based ranking algorithm inspired by PageRank.  
 In this project, sentences are modeled as nodes in a weighted similarity graph, where edges represent lexical similarity. Sentence importance emerges through a **random-walk process on the graph**, and the final summary is produced by selecting the most central sentences.
@@ -17,7 +17,7 @@ To reduce redundancy, **Maximal Marginal Relevance (MMR)** is applied on top of 
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 The implemented pipeline consists of the following stages:
 
@@ -45,7 +45,7 @@ The implemented pipeline consists of the following stages:
 
 ---
 
-## 🧪 Experiments
+## Experiments
 
 - **Toy example** (news-style article) to illustrate each algorithmic step
 - **Real-world evaluation** on a small sample from the CNN/DailyMail dataset
@@ -57,7 +57,7 @@ The implemented pipeline consists of the following stages:
 
 ---
 
-## 📊 Key Properties
+## Key Properties
 
 - Fully **unsupervised**
 - **No external libraries** (no NumPy, no NLTK, no sklearn)
