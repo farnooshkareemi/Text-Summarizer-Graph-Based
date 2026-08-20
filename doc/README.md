@@ -2,7 +2,7 @@
 
 ---
 
-## 🎓 Academic Context
+## Academic Context
 
 - Course: **Stochastics and Data Science**
 - Institution: **University of Turin**
@@ -10,13 +10,13 @@
 
 ---
 
-## ✍️ Author
+## Author
 
 **Farnoosh Karimi**
 
 ---
 
-## 📚 References
+## References
 
 - Mihalcea & Tarau (2004), *TextRank: Bringing Order into Texts*
 - Brin & Page (1998), *The Anatomy of a Large-Scale Hypertextual Web Search Engine*
